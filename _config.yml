@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A8C0C8'
+    - '#2890B8'
+    - '#908878'
+    - '#58B0B8'
+    - '#000000'
+  brandStrength: 0.482556
+  lightness: 0.795655
+  rhythmicContrast: 0.295045
+  saturation: 0.008697
+cta: {}
+layout_spectrum: 0.514639
+name: E2 Photography
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.353603
